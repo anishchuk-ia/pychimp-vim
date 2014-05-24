@@ -61,5 +61,11 @@ hi TabLine     ctermfg=3    ctermbg=NONE  cterm=NONE
 hi TabLineSel  ctermfg=14   ctermbg=NONE  cterm=bold
 hi TabLineFill ctermfg=46   ctermbg=NONE  cterm=NONE
 
+"Spelling
+hi SpellBad    ctermfg=188   ctermbg=161  cterm=NONE
+hi SpellCap    ctermfg=188   ctermbg=99  cterm=NONE
+hi SpellLocal    ctermfg=188   ctermbg=102  cterm=NONE
+hi SpellRare    ctermfg=188   ctermbg=103  cterm=NONE
+
 " End of Colour scheme ! (Pretty small !:) )
 " Will add support for more languages eventually. !
